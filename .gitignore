@@ -1,0 +1,19 @@
+# Папка налаштувань IDE
+.idea/
+
+# Кеші, журнали та файли помилок
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Локальні налаштування запуску та відладки
+.idea/**/runConfigurations/
+
+# Файли VCS
+.idea/vcs.xml
+
+# Папки для нод і модулів
+node_modules/
+.npm/
